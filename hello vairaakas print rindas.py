@@ -1,0 +1,6 @@
+print("Hello from VS Code!")
+print("sodien saaku maaciities programmeet.")
+print("ir jau veels")
+print("pulktenis raada 1:08")
+print("es esmu noguris")
+print("uz tiksanos!")
